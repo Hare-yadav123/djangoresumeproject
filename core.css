@@ -1,0 +1,27 @@
+.font{
+    font-family:"satisfy";
+
+}
+html,body{
+    height: 100px;
+}
+.fluid-container{
+    min-height: 100%;
+}
+a.nav-link{
+    color: whitesmoke;
+
+}
+a.nav-link:hover{
+    color: black;
+    background-color: #ecd9ec;
+}
+.form{
+    justify-content: space-between;
+    padding: 10px;
+    align-items: center;
+}
+.btn{
+    text-align:center ;
+    margin-left:50rem;
+}
